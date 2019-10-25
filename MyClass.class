@@ -1,0 +1,6 @@
+public class MyClass{
+	private Int id;
+	private String name;
+	public MyClass(){
+	}
+}
